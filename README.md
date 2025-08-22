@@ -1,6 +1,6 @@
 # Shannon's Entropy Calculator
 
-Shannon's entropy is a way to measure how much information is contained in a message. In this context, it tells us the average minimum number of bits needed to encode a string of symbols, based on how often each symbol appears. If a message uses many different symbols with similar frequencies, its entropy is higher, meaning it takes more bits to store or transmit. If the message repeats the same symbol often, its entropy is lower, and it can be compressed more efficiently. This calculation helps us understand how "random" or "predictable" a message is, and how much space is needed to represent it in digital form.
+Shannon's entropy is a way to measure how much **information** is contained in a message. In this context, it tells us the average minimum number of bits needed to encode a string of symbols, based on how often each symbol appears. If a message uses many different symbols with similar frequencies, its entropy is higher, meaning it takes more bits to store or transmit. If the message repeats the same symbol often, its entropy is lower, and it can be compressed more efficiently. This calculation helps us understand how "random" or "predictable" a message is, and how much space is needed to represent it in digital form.
 
 Named after Boltzmann's Η-theorem, Shannon defined the entropy Η (Greek capital letter eta) of a discrete random variable X with possible values {x1, ..., xn} and probability mass function P(X) as:
 
