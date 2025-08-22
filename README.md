@@ -59,7 +59,7 @@ Metric entropy: 0.18549
 
 For questions or comments:
 
-- Author: **Gianni Perez** @ [skylabus.com](https://www.skylabus.com) or at gianni.perez@gmail.com
+- Author: **Gianni Perez** @ [skylabus.tech](https://www.skylabus.tech) or at gianni.perez@gmail.com
 - [![](http://www.linkedin.com/img/webpromo/btn_liprofile_blue_80x15.png)](https://www.linkedin.com/in/gianni-perez/)
 
 
